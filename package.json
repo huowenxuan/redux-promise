@@ -29,7 +29,7 @@
   "author": "Andrew Clark <acdlite@me.com>",
   "license": "MIT",
   "dependencies": {
-    "flux-standard-action": "git+https://github.com/huowenxuan/flux-standard-action.git#f652bb8",
+    "flux-standard-action": "git+https://github.com/huowenxuan/flux-standard-action.git#c5f65cc",
     "is-promise": "^2.1.0"
   },
   "devDependencies": {
